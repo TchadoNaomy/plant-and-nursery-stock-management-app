@@ -4,10 +4,7 @@
  */
 package com.mycompany.plantandnurserymanagementapp.AuthUsers;
 
-/**
- *
- * @author Kapnang
- */
+
 import com.mycompany.plantandnurserymanagementapp.Database.DBConnection;
 import com.mycompany.plantandnurserymanagementapp.UserDashBoard.NurseryManagerDashboard;
 import com.mycompany.plantandnurserymanagementapp.UserDashBoard.SupplierDashboard;

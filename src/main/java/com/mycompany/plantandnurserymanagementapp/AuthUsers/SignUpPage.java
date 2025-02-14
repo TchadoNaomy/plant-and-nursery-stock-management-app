@@ -8,7 +8,7 @@ package com.mycompany.plantandnurserymanagementapp.AuthUsers;
  *
  * @author Kapnang
  */
-import com.mycompany.plantandnurserymanagementapp.DBConnection;
+import com.mycompany.plantandnurserymanagementapp.Database.DBConnection;
 import javax.swing.*;
 import java.awt.*;
 import java.sql.Connection;

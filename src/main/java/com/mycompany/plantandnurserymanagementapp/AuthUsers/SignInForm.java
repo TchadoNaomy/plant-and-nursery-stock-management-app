@@ -8,10 +8,9 @@ package com.mycompany.plantandnurserymanagementapp.AuthUsers;
  *
  * @author Kapnang
  */
-import com.mycompany.plantandnurserymanagementapp.DBConnection;
-import com.mycompany.plantandnurserymanagementapp.NurseryManagerDashboard;
-import com.mycompany.plantandnurserymanagementapp.PasswordResetForm;
-import com.mycompany.plantandnurserymanagementapp.SupplierDashboard;
+import com.mycompany.plantandnurserymanagementapp.Database.DBConnection;
+import com.mycompany.plantandnurserymanagementapp.UserDashBoard.NurseryManagerDashboard;
+import com.mycompany.plantandnurserymanagementapp.UserDashBoard.SupplierDashboard;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

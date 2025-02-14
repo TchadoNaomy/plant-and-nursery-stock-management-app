@@ -4,10 +4,7 @@
  */
 package com.mycompany.plantandnurserymanagementapp.Funtionalities;
 
-/**
- *
- * @author Kapnang
- */
+
 public class Order {
     private int oid;
     private int warehouseManagerId;

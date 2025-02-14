@@ -4,10 +4,7 @@
  */
 package com.mycompany.plantandnurserymanagementapp.Funtionalities;
 
-/**
- *
- * @author Kapnang
- */
+
 public class Supplier {
     private int uid; // Or id, depending on your database
     private String name;

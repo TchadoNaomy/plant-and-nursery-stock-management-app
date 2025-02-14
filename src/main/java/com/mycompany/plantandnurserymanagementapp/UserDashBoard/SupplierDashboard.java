@@ -7,10 +7,7 @@ package com.mycompany.plantandnurserymanagementapp.UserDashBoard;
 import com.mycompany.plantandnurserymanagementapp.Database.DBConnection;
 import javax.swing.JFrame;
 
-/**
- *
- * @author Kapnang
- */
+
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;

@@ -4,10 +4,7 @@
  */
 package com.mycompany.plantandnurserymanagementapp.Funtionalities;
 
-/**
- *
- * @author Kapnang
- */
+
 public class Plant {
     private int pid;
     private String name;

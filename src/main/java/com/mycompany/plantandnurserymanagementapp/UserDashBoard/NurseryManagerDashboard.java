@@ -4,10 +4,7 @@
  */
 package com.mycompany.plantandnurserymanagementapp.UserDashBoard;
 
-/**
- *
- * @author Kapnang
- */
+
 import com.mycompany.plantandnurserymanagementapp.Database.DBConnection;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
